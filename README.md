@@ -44,19 +44,6 @@ Este proyecto te permite:
     ```bash
     streamlit run app.py
     ```
-
-## Estructura de archivos
-
-kenwood-ts2000-web/
-├── app.py
-├── pages/
-│ ├── 1_Display.py
-│ ├── 2_ControlVFOs.py
-│ └── 3_Configuracion.py
-├── requirements.txt
-└── README.md
-
-
 ## Uso
 
 - Entra en [localhost:8501](http://localhost:8501) después de iniciar la app.
