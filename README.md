@@ -49,12 +49,16 @@ Este proyecto te permite:
 
 kenwood-ts2000-web/
 ├── app.py
-├── pages/
-│ ├── 1_Display.py
-│ ├── 2_ControlVFOs.py
-│ └── 3_Configuracion.py
 ├── requirements.txt
-└── README.md
+├── README.md
+├── pages/
+│   ├── 1_Display.py
+│   ├── 2_ControlVFOs.py
+│   └── 3_Configuracion.py
+├── utils/
+│   └── serial_utils.py
+└── .gitignore
+
 
 
 ## Uso
